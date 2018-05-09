@@ -1,1 +1,1 @@
-worker: run.bat
+worker: node run.bat
